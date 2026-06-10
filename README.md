@@ -10,6 +10,10 @@
 
 ---
 
+## ✦ live site
+ 
+🔗 [linmicarm.github.io/iyashicoded](https://linmicarm.github.io/iyashicoded)
+
 ## ✦ figma design
 
 🎨 [view hi-fi wireframe](https://www.figma.com/design/tBXeDqaQgX65yOaKjybAnK/Portfolio-Hi-Fi-Wireframe?t=RfJQGBtUeBVIm6wq-0)
@@ -149,20 +153,20 @@ Or use the VS Code **Live Server** extension for hot reload during development.
 ---
 
 ## ✦ deployment
-
-Deployed on **Vercel** — any push to `main` triggers an automatic redeploy.
-
+ 
+Deployed on **GitHub Pages** — any push to `main` triggers an automatic redeploy.
+ 
 ```bash
 git add .
 git commit -m "your message"
 git push
 ```
-
+ 
 To deploy your own copy:
 1. Fork this repo
-2. Go to [vercel.com](https://vercel.com) → New Project → import your fork
-3. Hit Deploy — live in under a minute
-
+2. Go to your repo → **Settings** → **Pages**
+3. Set branch to `main` → `/ (root)` → Save
+4. Live at `https://YOUR_USERNAME.github.io/iyashicoded` in ~2 minutes
 ---
 
 ## ✦ contact form setup
