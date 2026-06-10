@@ -1,4 +1,4 @@
-# iyashicoded ✦ michelle armstrong
+# illustrated portfolio ✦
 
 **Full-stack software engineer** building thoughtful digital experiences with clean code and intentional design.
 
@@ -6,9 +6,9 @@
 
 ---
 
-## ✦ live site
+<img width="1361" height="673" alt="image" src="https://github.com/user-attachments/assets/8de9642c-b19c-4891-b32c-054b89fc25dc" />
 
-🔗 [portfolio-ten-weld-87.vercel.app](https://portfolio-ten-weld-87.vercel.app)
+---
 
 ## ✦ figma design
 
