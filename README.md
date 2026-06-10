@@ -12,7 +12,7 @@
 
 ## ✦ live site
  
-🔗 [linmicarm.github.io/iyashicoded](https://linmicarm.github.io/iyashicoded)
+🔗 [linmicarm.github.io/iyashicoded](https://linmicarm.github.io/illustrated-portfolio/)
 
 ## ✦ figma design
 
